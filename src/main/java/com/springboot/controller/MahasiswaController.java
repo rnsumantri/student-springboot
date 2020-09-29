@@ -21,6 +21,6 @@ public class MahasiswaController {
 
         excel.importExcel(file);
 
-        return "redirect:/import";
+        return "Data Berhasil Disimpan";
     }
 }
