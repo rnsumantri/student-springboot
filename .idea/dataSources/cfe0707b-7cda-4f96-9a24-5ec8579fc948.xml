@@ -818,7 +818,7 @@ true posixrules
     <database id="9" parent="1" name="db_test_springboot">
       <ObjectId>18083</ObjectId>
       <Owner>postgres</Owner>
-      <IntrospectionStateNumber>1568</IntrospectionStateNumber>
+      <IntrospectionStateNumber>1574</IntrospectionStateNumber>
       <Current>1</Current>
     </database>
     <database id="10" parent="1" name="employee">
@@ -883,7 +883,7 @@ true posixrules
       <Comment>standard public schema</Comment>
       <StateNumber>276</StateNumber>
       <Owner>postgres</Owner>
-      <IntrospectionStateNumber>1569</IntrospectionStateNumber>
+      <IntrospectionStateNumber>1575</IntrospectionStateNumber>
       <Current>1</Current>
     </schema>
     <access-method id="25" parent="9" name="heap">
